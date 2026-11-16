@@ -1,0 +1,42 @@
+{
+  "react": {
+    "file": "react-performance.csv",
+    "search_columns": [
+      "Category",
+      "Issue",
+      "Keywords",
+      "Description"
+    ]
+  },
+  "web": {
+    "file": "ux-guidelines.csv",
+    "search_columns": [
+      "Category",
+      "Issue",
+      "Description",
+      "Platform"
+    ],
+    "filters": {
+      "Platform": [
+        "Web",
+        "All"
+      ]
+    }
+  },
+  "react-stack": {
+    "file": "stacks/react.csv",
+    "search_columns": [
+      "Category",
+      "Guideline",
+      "Description"
+    ]
+  },
+  "nextjs": {
+    "file": "stacks/nextjs.csv",
+    "search_columns": [
+      "Category",
+      "Guideline",
+      "Description"
+    ]
+  }
+}

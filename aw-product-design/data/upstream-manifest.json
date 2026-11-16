@@ -1,0 +1,215 @@
+{
+  "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "commit": "026b6e172c47fa09246b89b6e1d414b8e15f1057",
+  "license": "MIT",
+  "files": {
+    "products.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/products.csv",
+      "sha256": "42473f75e8dde5987bdf89ce55d8c168091b80a356cae691dd60247d80720b70",
+      "records": 192,
+      "columns": [
+        "No",
+        "Product Type",
+        "Keywords",
+        "Primary Style Recommendation",
+        "Secondary Styles",
+        "Landing Page Pattern",
+        "Dashboard Style (if applicable)",
+        "Color Palette Focus",
+        "Key Considerations"
+      ]
+    },
+    "styles.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/styles.csv",
+      "sha256": "a93a4d9d7025856575d7b7583bda020be9043013432c5af7c58af9dbdfb206b7",
+      "records": 88,
+      "columns": [
+        "No",
+        "Style Category",
+        "Type",
+        "Keywords",
+        "Primary Colors",
+        "Secondary Colors",
+        "Effects & Animation",
+        "Best For",
+        "Do Not Use For",
+        "Light Mode \u2713",
+        "Dark Mode \u2713",
+        "Performance",
+        "Accessibility",
+        "Mobile-Friendly",
+        "Conversion-Focused",
+        "Framework Compatibility",
+        "Era/Origin",
+        "Complexity",
+        "AI Prompt Keywords",
+        "CSS/Technical Keywords",
+        "Implementation Checklist",
+        "Design System Variables",
+        "Style ID",
+        "Aliases",
+        "Status",
+        "Parent Style ID",
+        "Replacement Domain",
+        "Replacement ID",
+        "Preferred Mode"
+      ]
+    },
+    "colors.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/colors.csv",
+      "sha256": "8162429222bce22df62b564085946a30d07cc9722c58d0a3a494bd0d1d00841c",
+      "records": 192,
+      "columns": [
+        "No",
+        "Product Type",
+        "Primary",
+        "On Primary",
+        "Secondary",
+        "On Secondary",
+        "Accent",
+        "On Accent",
+        "Background",
+        "Foreground",
+        "Card",
+        "Card Foreground",
+        "Muted",
+        "Muted Foreground",
+        "Border",
+        "Destructive",
+        "On Destructive",
+        "Ring",
+        "Notes"
+      ]
+    },
+    "typography.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/typography.csv",
+      "sha256": "321fc446e89024488ebae96dda93efc4d2307bd8bddb240857ad51364f6782c8",
+      "records": 74,
+      "columns": [
+        "No",
+        "Font Pairing Name",
+        "Category",
+        "Heading Font",
+        "Body Font",
+        "Mood/Style Keywords",
+        "Best For",
+        "Google Fonts URL",
+        "CSS Import",
+        "Tailwind Config",
+        "Notes"
+      ]
+    },
+    "ux-guidelines.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/ux-guidelines.csv",
+      "sha256": "ff81ec613f70ba9fc3fcce52dbe4ae35d44b2079dbe6dc066d2d6e38c28facd5",
+      "records": 119,
+      "columns": [
+        "No",
+        "Category",
+        "Issue",
+        "Platform",
+        "Description",
+        "Do",
+        "Don't",
+        "Code Example Good",
+        "Code Example Bad",
+        "Severity"
+      ]
+    },
+    "landing.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/landing.csv",
+      "sha256": "9a2edd3bb676c2a58f00ade7a062e285222d4297bfd847c8d5b056f0dbbf52d0",
+      "records": 34,
+      "columns": [
+        "No",
+        "Pattern Name",
+        "Keywords",
+        "Section Order",
+        "Primary CTA Placement",
+        "Color Strategy",
+        "Recommended Effects",
+        "Conversion Optimization",
+        "Pattern ID",
+        "Aliases"
+      ]
+    },
+    "charts.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/charts.csv",
+      "sha256": "4115cf1120680f2cedef0676cb648f30c7ef4699e2a947535d4113e71ed3b12a",
+      "records": 25,
+      "columns": [
+        "No",
+        "Data Type",
+        "Keywords",
+        "Best Chart Type",
+        "Secondary Options",
+        "When to Use",
+        "When NOT to Use",
+        "Data Volume Threshold",
+        "Color Guidance",
+        "Accessibility Grade",
+        "Accessibility Risk",
+        "Accessibility Notes",
+        "A11y Fallback",
+        "Library Recommendation",
+        "Interactive Level"
+      ]
+    },
+    "icons.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/icons.csv",
+      "sha256": "50816c6012030178195a16ee481ebf58b47bd985d70e8ec58886cc83f6eddafc",
+      "records": 105,
+      "columns": [
+        "No",
+        "Category",
+        "Icon Name",
+        "Keywords",
+        "Library",
+        "Import Code",
+        "Usage",
+        "Best For",
+        "Style",
+        "Semantic Role",
+        "Allowed Contexts"
+      ]
+    },
+    "motion.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/motion.csv",
+      "sha256": "381affe8df8ea1f66fbbda2598827f9f54299107bbe6a1b4e9b68f6b62091ceb",
+      "records": 17,
+      "columns": [
+        "No",
+        "Category",
+        "Intensity Tier",
+        "Keywords",
+        "Trigger",
+        "Duration",
+        "Easing",
+        "GSAP Snippet",
+        "Framework Notes",
+        "Do",
+        "Don't",
+        "Performance Notes"
+      ]
+    },
+    "ui-reasoning.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/ui-reasoning.csv",
+      "sha256": "f0774dd741cecdad5eec842034bd6d5e9ea50e9f220a1910069748daa0bb8e9a",
+      "records": 192,
+      "columns": [
+        "No",
+        "UI_Category",
+        "Recommended_Pattern",
+        "Style_Priority",
+        "Color_Mood",
+        "Typography_Mood",
+        "Key_Effects",
+        "Decision_Rules",
+        "Anti_Patterns",
+        "Severity",
+        "Reasoning",
+        "Confidence"
+      ]
+    }
+  }
+}

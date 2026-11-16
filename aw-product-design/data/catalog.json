@@ -1,0 +1,81 @@
+{
+  "product": {
+    "file": "products.csv",
+    "search_columns": [
+      "Product Type",
+      "Keywords"
+    ]
+  },
+  "style": {
+    "file": "styles.csv",
+    "search_columns": [
+      "Style Category",
+      "Keywords",
+      "Best For"
+    ]
+  },
+  "color": {
+    "file": "colors.csv",
+    "search_columns": [
+      "Product Type",
+      "Notes"
+    ]
+  },
+  "typography": {
+    "file": "typography.csv",
+    "search_columns": [
+      "Font Pairing Name",
+      "Mood/Style Keywords",
+      "Best For"
+    ]
+  },
+  "ux": {
+    "file": "ux-guidelines.csv",
+    "search_columns": [
+      "Category",
+      "Issue",
+      "Description",
+      "Platform"
+    ]
+  },
+  "landing": {
+    "file": "landing.csv",
+    "search_columns": [
+      "Pattern Name",
+      "Keywords",
+      "Section Order"
+    ]
+  },
+  "chart": {
+    "file": "charts.csv",
+    "search_columns": [
+      "Data Type",
+      "Keywords",
+      "Best Chart Type"
+    ]
+  },
+  "icons": {
+    "file": "icons.csv",
+    "search_columns": [
+      "Icon Name",
+      "Keywords",
+      "Category"
+    ]
+  },
+  "motion": {
+    "file": "motion.csv",
+    "search_columns": [
+      "Category",
+      "Keywords",
+      "Trigger"
+    ]
+  },
+  "reasoning": {
+    "file": "ui-reasoning.csv",
+    "search_columns": [
+      "UI_Category",
+      "Recommended_Pattern",
+      "Style_Priority"
+    ]
+  }
+}

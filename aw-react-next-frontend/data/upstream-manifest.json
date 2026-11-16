@@ -1,0 +1,82 @@
+{
+  "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "commit": "026b6e172c47fa09246b89b6e1d414b8e15f1057",
+  "license": "MIT",
+  "files": {
+    "react-performance.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/react-performance.csv",
+      "sha256": "3d925802539abac5afeb63ae8aa1960b7229ad271b3a47caed40ab2d97ad0734",
+      "records": 44,
+      "columns": [
+        "No",
+        "Category",
+        "Issue",
+        "Keywords",
+        "Platform",
+        "Description",
+        "Do",
+        "Don't",
+        "Code Example Good",
+        "Code Example Bad",
+        "Severity"
+      ]
+    },
+    "stacks/react.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/stacks/react.csv",
+      "sha256": "4dd176a9787e5c6306b5df94158d75955adcdc6edab41ce5286641a5842303c1",
+      "records": 66,
+      "columns": [
+        "No",
+        "Category",
+        "Guideline",
+        "Description",
+        "Do",
+        "Don't",
+        "Code Good",
+        "Code Bad",
+        "Severity",
+        "Docs URL",
+        "Applies To",
+        "Status",
+        "Verified At"
+      ]
+    },
+    "stacks/nextjs.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/stacks/nextjs.csv",
+      "sha256": "ecd2c27b2ea0127d203ae726060efcdd7335b5e83f96b99e4f3befbbfeebd5a4",
+      "records": 60,
+      "columns": [
+        "No",
+        "Category",
+        "Guideline",
+        "Description",
+        "Do",
+        "Don't",
+        "Code Good",
+        "Code Bad",
+        "Severity",
+        "Docs URL",
+        "Applies To",
+        "Status",
+        "Verified At"
+      ]
+    },
+    "ux-guidelines.csv": {
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/026b6e172c47fa09246b89b6e1d414b8e15f1057/src/ui-ux-pro-max/data/ux-guidelines.csv",
+      "sha256": "ff81ec613f70ba9fc3fcce52dbe4ae35d44b2079dbe6dc066d2d6e38c28facd5",
+      "records": 119,
+      "columns": [
+        "No",
+        "Category",
+        "Issue",
+        "Platform",
+        "Description",
+        "Do",
+        "Don't",
+        "Code Example Good",
+        "Code Example Bad",
+        "Severity"
+      ]
+    }
+  }
+}
